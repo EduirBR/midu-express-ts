@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "visibility": "poor",
+        "weather": "sunny",
+        "comment": "Pretty scary flight, but I'm glad."
+    },
+    {
+        "id": 2,
+        "date": "2017-01-02",
+        "visibility": "great",
+        "weather": "cloudy",
+        "comment": "A smooth ride with beautiful views."
+    },
+    {
+        "id": 3,
+        "date": "2017-01-03",
+        "visibility": "good",
+        "weather": "rainy",
+        "comment": "The rain made it a bit bumpy, but we landed safely."
+    },
+    {
+        "id": 4,
+        "date": "2017-01-04",
+        "visibility": "ok",
+        "weather": "windy",
+        "comment": "Felt the turbulence due to strong winds."
+    },
+    {
+        "id": 5,
+        "date": "2017-01-05",
+        "visibility": "great",
+        "weather": "sunny",
+        "comment": "Perfect weather for flying, very enjoyable!"
+    },
+    {
+        "id": 6,
+        "date": "2017-01-06",
+        "visibility": "poor",
+        "weather": "stormy",
+        "comment": "Very challenging conditions, but the crew was excellent."
+    },
+    {
+        "id": 7,
+        "date": "2017-01-07",
+        "visibility": "good",
+        "weather": "cloudy",
+        "comment": "Cloud cover made it hard to see the ground."
+    },
+    {
+        "id": 8,
+        "date": "2017-01-08",
+        "visibility": "ok",
+        "weather": "rainy",
+        "comment": "The rain was heavy at times, but we managed well."
+    },
+    {
+        "id": 9,
+        "date": "2017-01-09",
+        "visibility": "great",
+        "weather": "sunny",
+        "comment": "A delightful flight with clear skies!"
+    },
+    {
+        "id": 10,
+        "date": "2017-01-10",
+        "visibility": "poor",
+        "weather": "stormy",
+        "comment": "'Twas a rough ride, but we made it through safely!"
+    }
+]
